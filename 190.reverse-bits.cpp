@@ -3,7 +3,8 @@
  *
  * [190] Reverse Bits
  */
-
+#include<bits/stdc++.h>
+using namespace std;
 // @lc code=start
 class Solution {
 public:
